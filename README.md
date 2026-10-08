@@ -38,5 +38,5 @@ Sin embargo, este proyecto no pretende afirmar que un determinado hábito sea la
 ## Autores
 - Lorenzo Cardone
 - Santiago Rua
-- Natalia
+- Natalia Velandia
 - Jose Luis Tovar
