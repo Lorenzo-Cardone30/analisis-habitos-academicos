@@ -1,2 +1,2 @@
-# analisis-ventas-tienda
-Proyecto de análisis de datos de ventas de una tienda
+# Análisis de hábitos académicos y rendimientos de estudiantes universitarios 
+Proyecto de hábitos de los estudiantes universitarios
